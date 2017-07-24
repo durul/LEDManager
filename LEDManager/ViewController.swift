@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         ref = Database.database().reference()
         switchRef = ref?.child("ledSwitch/state")
         
-        Auth.auth().signIn(withEmail: "adurul17@hotmail.com", password: "1234567") { (user, error) in
+        Auth.auth().signIn(withEmail: "YOUR E-MAIL", password: "YOUR PASSWORD") { (user, error) in
             if let error = error {
                 print(error.localizedDescription)
                 return
