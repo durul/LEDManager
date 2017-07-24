@@ -53,6 +53,7 @@ With this package we GPIO access and interrupt detection with Node.js on Linux b
 - [Raspberry Pi 3 Model B Starter Pack](https://www.adafruit.com/product/3058)
 - [Firebase account](https://console.firebase.google.com)
 - [Ndm](https://720kb.github.io/ndm/)
+- [Fritzing](http://fritzing.org/download/)
 
 
 ## TODO
