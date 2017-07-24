@@ -2,7 +2,7 @@
 
 # LEDManager
 
- ![Platform](https://img.shields.io/badge/Platforms-iOS%20-lightgray.svg?style=flat)
+ ![Platform](https://github.com/durul/LEDManager/blob/master/Untitled.png)
 
 ----
 - This application that uses Firebase and Node.js to provide access RaspberryPi LED with iOS App. The application is written Swift 3+ and utilizes the Firebase framework.
